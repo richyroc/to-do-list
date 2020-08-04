@@ -1,0 +1,33 @@
+#header-title {
+  font-family: Roboto, Arial, sans-serif;
+}
+
+.card-body {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.form-inline mb-3 {
+  margin-bottom: 1.25rem !important;
+}
+
+.graident {
+  background-image: radial-gradient( circle farthest-corner at 12.3% 19.3%,  rgba(85,88,218,1) 0%, rgba(95,209,249,1) 100.2% );
+  padding: 50px 0;
+  margin-bottom: 2em;
+  font-weight: bold;
+  color: white;
+}
+
+.btn-success {
+  -webkit-box-shadow: 10px 10px 5px -2px rgba(240,240,240,0.66);
+-moz-box-shadow: 10px 10px 5px -2px rgba(240,240,240,0.66);
+box-shadow: 10px 10px 5px -2px rgba(240,240,240,0.66);
+font-weight: 700;
+}
+
+
+@media (max-width: 599px) {
+  input#item.form-control {
+    margin-bottom: 1rem !important;
+  }
+ }
