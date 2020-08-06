@@ -1,2 +1,2 @@
 # to-do-list
-Learning DOM Manipulation from Online Tutorials via Traversy Media
+DOM Manipulation from '20 Web Projects With HTML5, CSS3 & JavaScript' via Traversy Media
